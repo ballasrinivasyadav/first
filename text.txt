@@ -1,2 +1,6 @@
 manual testing
 automation testing
+regression testing
+sanity testing
+smoke testi ng
+
